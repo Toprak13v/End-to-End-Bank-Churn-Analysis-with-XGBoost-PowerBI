@@ -10,15 +10,6 @@ An end-to-end Machine Learning pipeline and interactive Power BI dashboard to pr
 ## 🎯 Business Goal
 Customer acquisition is significantly more expensive than customer retention. By accurately predicting which customers are likely to churn, the bank can proactively offer targeted loyalty programs, personalized incentives, and dedicated support to minimize revenue loss.
 
-## 📂 Project Structure
-```text
-├── data/                   # Raw and processed datasets
-├── models/                 # Saved machine learning models (e.g., model.pkl)
-├── notebooks/              # Jupyter notebooks for EDA, Data Cleaning, and Model Training
-├── PowerBI/                # Power BI dashboard files (.pbix) and export images
-├── Reports                 # SHAP Feature Importance visual
-└── README.md               # Project documentation
-
 ## 🛠️ Tech Stack & Tools
 Programming Language: Python (Pandas, NumPy)
 
@@ -41,4 +32,15 @@ As seen in the chart, Age is the most critical factor influencing churn, followe
 
 📷 Executive Power BI Dashboard
 <img width="1266" height="709" alt="PowerBI_Churn" src="https://github.com/user-attachments/assets/8af578c2-9c3f-4b21-8385-b17c776b80c0" />
+
+## 📂 Project Structure
+```text
+├── data/                   # Raw and processed datasets
+├── models/                 # Saved machine learning models (e.g., model.pkl)
+├── notebooks/              # Jupyter notebooks for EDA, Data Cleaning, and Model Training
+├── PowerBI/                # Power BI dashboard files (.pbix) and export images
+├── Reports                 # SHAP Feature Importance visual
+└── README.md               # Project documentation
+
+
 
