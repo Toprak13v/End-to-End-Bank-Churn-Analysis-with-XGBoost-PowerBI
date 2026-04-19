@@ -30,7 +30,7 @@ To understand exactly which factors drive customer churn, I analyzed the feature
 
 As seen in the chart, Age is the most critical factor influencing churn, followed by the number of products a customer holds, and their geographic location (specifically Germany).
 
-## 📷 Executive Power BI Dashboard
+## 📷 Executive Power BI Dashboard 
 <img width="1266" height="709" alt="PowerBI_Churn" src="https://github.com/user-attachments/assets/8af578c2-9c3f-4b21-8385-b17c776b80c0" />
 
 ## 📂 Project Structure
